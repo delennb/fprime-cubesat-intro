@@ -41,6 +41,7 @@ module LedBlinker {
     instance rateGroupDriver
     instance textLogger
     instance systemResources
+    instance led
 
     # ----------------------------------------------------------------------
     # Pattern graph specifiers
